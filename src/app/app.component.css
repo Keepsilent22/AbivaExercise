@@ -24,7 +24,7 @@
     font-size: 40pt;
     font-weight: bolder;
     margin-left: 20%;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: Georgia, sans-serif;
     color: #2b5c8a;
     text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
 }
@@ -32,7 +32,7 @@
 .p1 {
     font-size: 35pt;
     margin-left: 23%;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: Georgia, sans-serif;
     color: #2b5c8a;
 }
 
@@ -42,7 +42,6 @@
     font-size: 30px;
     border-radius: 9999px;
     margin-left: 20%;
-    font-family: 'Josefin Sans', sans-serif;
     background-color: #4a9fee;
     color: #ffffff;
     border-color: transparent;
@@ -82,7 +81,7 @@
     font-size: 25px;
     margin-top: 15px;
     font-weight: bold;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: sans-serif;
     color: #2b5c8a;
 }
 
@@ -90,7 +89,7 @@
     font-size: 20px;
     text-align: left;
     margin-left: 15%;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: sans-serif;
     color: #2b5c8a;
 }
 
@@ -110,7 +109,7 @@
 .h1LC {
     font-size: 50pt;
     margin-bottom: 0;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: sans-serif;
     color: #2b5c8a;
 }
 
@@ -138,7 +137,7 @@
     text-align: left;
     margin-right: 20px;
     font-size: 25px;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: Georgia, sans-serif;
     color: #2b5c8a;
 }
   
@@ -149,6 +148,7 @@
     font-size: 25px;
     margin-left: auto;
     color: #4c85bb;
+    font-family: Georgia, sans-serif;
 }
   
 .submit-button{
@@ -157,7 +157,7 @@
     width: 250px;
     height: 50px;
     font-size: 25px;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: sans-serif;
     color: white;
     background-color: #2b5c8a;;
     border-color: transparent;
@@ -167,7 +167,7 @@
 .p2{
     text-align: center;
     font-size: 20pt;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: Georgia, sans-serif;
     color: #2b5c8a;
 }
 
@@ -186,5 +186,5 @@
   
 .footer p {
     font-size: 15pt;
-    font-family: 'Josefin Sans', sans-serif
+    font-family: sans-serif
 }
