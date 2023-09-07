@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+@import '@fontsource/josefin-sans';
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../assets/static/josefin-sans.ttf') format('ttf'),
+         url('../assets/static/josefin-sans.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
