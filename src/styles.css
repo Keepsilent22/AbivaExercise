@@ -2,8 +2,7 @@
 
 @font-face {
     font-family: 'Josefin Sans';
-    src: url('../assets/static/josefin-sans.ttf') format('ttf'),
-         url('../assets/static/josefin-sans.ttf') format('ttf');
+    src: url('../assets/static/josefin-sans.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
   }
